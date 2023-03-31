@@ -33,7 +33,7 @@ openai.api_key = (openaikey)
 client = commands.Bot(command_prefix="!", intents=discord.Intents.all(),case_insensitive=True)
 
 
-with open('content1.txt', 'r',encoding='utf-8') as file:
+with open('F:\Python\SakuraNeNaiFinal\content1.txt', 'r',encoding='utf-8') as file:
     content = file.read()
 
 conversations = {}

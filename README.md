@@ -32,3 +32,5 @@ The following commands are available:
 `!restart: Restarts the bot.`
 
 `!clear: Clears the conversation history with the bot.`
+
+Depreciated Repo
